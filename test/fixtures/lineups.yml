@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_1_id: 1
+  player_2_id: 1
+  player_3_id: 1
+  player_4_id: 1
+  player_5_id: 1
+  player_6_id: 1
+  player_7_id: 1
+  player_8_id: 1
+  player_9_id: 1
+
+two:
+  player_1_id: 1
+  player_2_id: 1
+  player_3_id: 1
+  player_4_id: 1
+  player_5_id: 1
+  player_6_id: 1
+  player_7_id: 1
+  player_8_id: 1
+  player_9_id: 1
